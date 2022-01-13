@@ -1,5 +1,6 @@
 body{
     font-family: 'Be Vietnam Pro', sans-serif;
+    margin: 0%;
 }
 h1{
     font-size: 50px;
@@ -14,5 +15,26 @@ h1{
     padding-left: 2%;
 }
 .halfbaba img{
-    width: 100%;
+    width: 50%;
+}
+.top-banner{
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 800px;
+}
+.button1{
+    text-decoration: none;
+    background-color: rgb(255, 106, 0);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font width: 700px;}
+
+img{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+
 }

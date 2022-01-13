@@ -1,0 +1,18 @@
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.namerong{
+    color: orange;
+}
+.halfbaba{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.halfbaba img{
+    width: 100%;
+}
